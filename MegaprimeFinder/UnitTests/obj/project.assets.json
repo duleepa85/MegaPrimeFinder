@@ -5482,11 +5482,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Samples\\MegaprimeFinder\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "D:\\Samples\\WorkDirectories\\MegaPrimeFinder\\MegaPrimeFinder\\MegaprimeFinder\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "D:\\Samples\\MegaprimeFinder\\UnitTests\\UnitTests.csproj",
+      "projectPath": "D:\\Samples\\WorkDirectories\\MegaPrimeFinder\\MegaPrimeFinder\\MegaprimeFinder\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\DuleepaKatipearachch\\.nuget\\packages\\",
-      "outputPath": "D:\\Samples\\MegaprimeFinder\\UnitTests\\obj\\",
+      "outputPath": "D:\\Samples\\WorkDirectories\\MegaPrimeFinder\\MegaPrimeFinder\\MegaprimeFinder\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5508,8 +5508,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Samples\\MegaprimeFinder\\MegaprimeFinder\\MegaprimeFinder.csproj": {
-              "projectPath": "D:\\Samples\\MegaprimeFinder\\MegaprimeFinder\\MegaprimeFinder.csproj"
+            "D:\\Samples\\WorkDirectories\\MegaPrimeFinder\\MegaPrimeFinder\\MegaprimeFinder\\MegaprimeFinder\\MegaprimeFinder.csproj": {
+              "projectPath": "D:\\Samples\\WorkDirectories\\MegaPrimeFinder\\MegaPrimeFinder\\MegaprimeFinder\\MegaprimeFinder\\MegaprimeFinder.csproj"
             }
           }
         }

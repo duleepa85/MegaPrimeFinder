@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qme6nkCJH/Kk8CElhB3ctib3fNGfY4JeHOj5mrUtOFRnAxzPtc8Lgd3RGCUFqIR34wKtklwlIOpwcOrP9u6KOA==",
+  "dgSpecHash": "IFChh/bqNUrebdQ5Y3A0rSSrQ7rmih4hDzuOFbeSvWABccRjQcAAfrEIwCUn4EZbJY1RUS7kjWBuDEFAK69byg==",
   "success": true,
-  "projectFilePath": "D:\\Samples\\MegaprimeFinder\\UnitTests\\UnitTests.csproj",
+  "projectFilePath": "D:\\Samples\\WorkDirectories\\MegaPrimeFinder\\MegaPrimeFinder\\MegaprimeFinder\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DuleepaKatipearachch\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
     "C:\\Users\\DuleepaKatipearachch\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",

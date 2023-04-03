@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Samples\\MegaprimeFinder\\MegaprimeFinder\\MegaprimeFinder.csproj": {}
+    "D:\\Samples\\WorkDirectories\\MegaPrimeFinder\\MegaPrimeFinder\\MegaprimeFinder\\MegaprimeFinder\\MegaprimeFinder.csproj": {}
   },
   "projects": {
-    "D:\\Samples\\MegaprimeFinder\\MegaprimeFinder\\MegaprimeFinder.csproj": {
+    "D:\\Samples\\WorkDirectories\\MegaPrimeFinder\\MegaPrimeFinder\\MegaprimeFinder\\MegaprimeFinder\\MegaprimeFinder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Samples\\MegaprimeFinder\\MegaprimeFinder\\MegaprimeFinder.csproj",
+        "projectUniqueName": "D:\\Samples\\WorkDirectories\\MegaPrimeFinder\\MegaPrimeFinder\\MegaprimeFinder\\MegaprimeFinder\\MegaprimeFinder.csproj",
         "projectName": "MegaprimeFinder",
-        "projectPath": "D:\\Samples\\MegaprimeFinder\\MegaprimeFinder\\MegaprimeFinder.csproj",
+        "projectPath": "D:\\Samples\\WorkDirectories\\MegaPrimeFinder\\MegaPrimeFinder\\MegaprimeFinder\\MegaprimeFinder\\MegaprimeFinder.csproj",
         "packagesPath": "C:\\Users\\DuleepaKatipearachch\\.nuget\\packages\\",
-        "outputPath": "D:\\Samples\\MegaprimeFinder\\MegaprimeFinder\\obj\\",
+        "outputPath": "D:\\Samples\\WorkDirectories\\MegaPrimeFinder\\MegaPrimeFinder\\MegaprimeFinder\\MegaprimeFinder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
